@@ -1,0 +1,21 @@
+[
+    {"Movement": "Overhead Press", "Load_kg": 30, "Reps": 10, "Volume_Load": 300, "Intensity_RPE": 4, "Notes": "Warm-up. Run: 2.75km in 12:30 prior.", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Overhead Press", "Load_kg": 30, "Reps": 10, "Volume_Load": 300, "Intensity_RPE": 6.5, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Overhead Press", "Load_kg": 30, "Reps": 10, "Volume_Load": 300, "Intensity_RPE": 8, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Standing OHP", "Load_kg": 30, "Reps": 8, "Volume_Load": 240, "Intensity_RPE": 8, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Zercher Deadlift", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 5, "Notes": "From floor", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Zercher Deadlift", "Load_kg": 100, "Reps": 3, "Volume_Load": 300, "Intensity_RPE": 6, "Notes": "Felt light headed", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Zercher Deadlift", "Load_kg": 100, "Reps": 3, "Volume_Load": 300, "Intensity_RPE": 6, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Zercher Deadlift", "Load_kg": 100, "Reps": 3, "Volume_Load": 300, "Intensity_RPE": 7, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Press", "Load_kg": 32, "Reps": 12, "Volume_Load": 384, "Intensity_RPE": 3, "Notes": "16kg dumbbells", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Press", "Load_kg": 40, "Reps": 8, "Volume_Load": 320, "Intensity_RPE": 5.5, "Notes": "20kg dumbbells", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Press", "Load_kg": 40, "Reps": 8, "Volume_Load": 320, "Intensity_RPE": 6.5, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Press", "Load_kg": 40, "Reps": 6, "Volume_Load": 240, "Intensity_RPE": 9, "Notes": "Failed on 7th rep", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 6, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 7, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 8, "Notes": "", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline Bicep Curl", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 8, "Notes": "Superset A", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Fly", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 8, "Notes": "Superset B", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline Bicep Curl", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 8, "Notes": "Superset A", "Timestamp": "2026-01-25 10:00:00"},
+    {"Movement": "Incline DB Fly", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 8, "Notes": "Superset B", "Timestamp": "2026-01-25 10:00:00"}
+]
