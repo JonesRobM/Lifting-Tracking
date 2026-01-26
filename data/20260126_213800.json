@@ -1,0 +1,162 @@
+[
+    {
+        "Movement": "Run",
+        "Load_kg": 0,
+        "Reps": 0,
+        "Volume_Load": 0,
+        "Intensity_RPE": 7,
+        "Notes": "5 mins at 5:00/km pace"
+    },
+    {
+        "Movement": "Standing Overhead Press",
+        "Load_kg": 30,
+        "Reps": 8,
+        "Volume_Load": 240,
+        "Intensity_RPE": 6,
+        "Notes": ""
+    },
+    {
+        "Movement": "Standing Overhead Press",
+        "Load_kg": 30,
+        "Reps": 8,
+        "Volume_Load": 240,
+        "Intensity_RPE": 6,
+        "Notes": ""
+    },
+    {
+        "Movement": "Standing Overhead Press",
+        "Load_kg": 30,
+        "Reps": 8,
+        "Volume_Load": 240,
+        "Intensity_RPE": 7.5,
+        "Notes": ""
+    },
+    {
+        "Movement": "Standing Overhead Press",
+        "Load_kg": 30,
+        "Reps": 8,
+        "Volume_Load": 240,
+        "Intensity_RPE": 8,
+        "Notes": ""
+    },
+    {
+        "Movement": "Bent over barbell row",
+        "Load_kg": 30,
+        "Reps": 15,
+        "Volume_Load": 450,
+        "Intensity_RPE": 4,
+        "Notes": ""
+    },
+    {
+        "Movement": "Bent over barbell row",
+        "Load_kg": 30,
+        "Reps": 15,
+        "Volume_Load": 450,
+        "Intensity_RPE": 5,
+        "Notes": ""
+    },
+    {
+        "Movement": "Bent over barbell row",
+        "Load_kg": 30,
+        "Reps": 15,
+        "Volume_Load": 450,
+        "Intensity_RPE": 6,
+        "Notes": ""
+    },
+    {
+        "Movement": "Bent over barbell row",
+        "Load_kg": 30,
+        "Reps": 15,
+        "Volume_Load": 450,
+        "Intensity_RPE": 8,
+        "Notes": ""
+    },
+    {
+        "Movement": "RDL",
+        "Load_kg": 30,
+        "Reps": 15,
+        "Volume_Load": 450,
+        "Intensity_RPE": 4,
+        "Notes": ""
+    },
+    {
+        "Movement": "RDL",
+        "Load_kg": 70,
+        "Reps": 10,
+        "Volume_Load": 700,
+        "Intensity_RPE": 6,
+        "Notes": ""
+    },
+    {
+        "Movement": "RDL",
+        "Load_kg": 70,
+        "Reps": 10,
+        "Volume_Load": 700,
+        "Intensity_RPE": 7,
+        "Notes": ""
+    },
+    {
+        "Movement": "RDL",
+        "Load_kg": 70,
+        "Reps": 10,
+        "Volume_Load": 700,
+        "Intensity_RPE": 8,
+        "Notes": ""
+    },
+    {
+        "Movement": "Cable Tricep Pushdown",
+        "Load_kg": 23,
+        "Reps": 20,
+        "Volume_Load": 460,
+        "Intensity_RPE": 7,
+        "Notes": "Superset A"
+    },
+    {
+        "Movement": "Cable Bicep Curl",
+        "Load_kg": 23,
+        "Reps": 20,
+        "Volume_Load": 460,
+        "Intensity_RPE": 7,
+        "Notes": "Superset B"
+    },
+    {
+        "Movement": "Cable Tricep Pushdown",
+        "Load_kg": 23,
+        "Reps": 20,
+        "Volume_Load": 460,
+        "Intensity_RPE": 9,
+        "Notes": "Superset A"
+    },
+    {
+        "Movement": "Cable Bicep Curl",
+        "Load_kg": 23,
+        "Reps": 12,
+        "Volume_Load": 276,
+        "Intensity_RPE": 10,
+        "Notes": "Superset B - failure at 12"
+    },
+    {
+        "Movement": "Kettlebell Swings",
+        "Load_kg": 20,
+        "Reps": 12,
+        "Volume_Load": 240,
+        "Intensity_RPE": 6,
+        "Notes": ""
+    },
+    {
+        "Movement": "Kettlebell Swings",
+        "Load_kg": 20,
+        "Reps": 12,
+        "Volume_Load": 240,
+        "Intensity_RPE": 7.5,
+        "Notes": ""
+    },
+    {
+        "Movement": "Kettlebell Swings",
+        "Load_kg": 20,
+        "Reps": 15,
+        "Volume_Load": 300,
+        "Intensity_RPE": 9,
+        "Notes": ""
+    }
+]
