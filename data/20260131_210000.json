@@ -25,5 +25,5 @@
   { "Movement": "Seated Row", "Load_kg": 45, "Reps": 8, "Volume_Load": 360, "Intensity_RPE": 8, "Notes": "" },
   { "Movement": "Seated Row", "Load_kg": 45, "Reps": 8, "Volume_Load": 360, "Intensity_RPE": 8, "Notes": "" },
   { "Movement": "BTN Standing Press", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 5.5, "Notes": "" },
-  { "Movement": "Standing OHP", "Load_kg": 30, "Reps": 4, "Volume_Load": 120, "Intensity_RPE": 10, "Notes": "Failed reps" }
+  { "Movement": "Overhead Press", "Load_kg": 30, "Reps": 4, "Volume_Load": 120, "Intensity_RPE": 10, "Notes": "Failed reps" }
 ]
