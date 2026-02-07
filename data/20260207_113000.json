@@ -1,0 +1,21 @@
+[
+  { "Movement": "Dumbbell Press", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 5, "Notes": "" },
+  { "Movement": "Dumbbell Press", "Load_kg": 22, "Reps": 8, "Volume_Load": 176, "Intensity_RPE": 6.5, "Notes": "" },
+  { "Movement": "Squat", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 4, "Notes": "Warm-up" },
+  { "Movement": "Squat", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 6, "Notes": "" },
+  { "Movement": "Squat", "Load_kg": 80, "Reps": 3, "Volume_Load": 240, "Intensity_RPE": 6.5, "Notes": "" },
+  { "Movement": "Squat", "Load_kg": 100, "Reps": 1, "Volume_Load": 100, "Intensity_RPE": 7, "Notes": "" },
+  { "Movement": "Squat", "Load_kg": 110, "Reps": 1, "Volume_Load": 110, "Intensity_RPE": 7.5, "Notes": "" },
+  { "Movement": "Squat", "Load_kg": 120, "Reps": 1, "Volume_Load": 120, "Intensity_RPE": 8.5, "Notes": "Peak single" },
+  { "Movement": "Squat", "Load_kg": 80, "Reps": 12, "Volume_Load": 960, "Intensity_RPE": 7.5, "Notes": "High volume back-off" },
+  { "Movement": "Assisted Dips", "Load_kg": -30, "Reps": 8, "Volume_Load": 0, "Intensity_RPE": 6, "Notes": "30kg assistance" },
+  { "Movement": "Assisted Pullups", "Load_kg": -30, "Reps": 8, "Volume_Load": 0, "Intensity_RPE": 6, "Notes": "30kg assistance" },
+  { "Movement": "Assisted Dips", "Load_kg": -25, "Reps": 10, "Volume_Load": 0, "Intensity_RPE": 7.5, "Notes": "25kg assistance" },
+  { "Movement": "Assisted Pullups", "Load_kg": -25, "Reps": 10, "Volume_Load": 0, "Intensity_RPE": 7.5, "Notes": "25kg assistance" },
+  { "Movement": "Assisted Dips", "Load_kg": -20, "Reps": 8, "Volume_Load": 0, "Intensity_RPE": 8, "Notes": "20kg assistance" },
+  { "Movement": "Assisted Pullups", "Load_kg": -20, "Reps": 8, "Volume_Load": 0, "Intensity_RPE": 8, "Notes": "20kg assistance" },
+  { "Movement": "Tricep Pushdown", "Load_kg": 35, "Reps": 15, "Volume_Load": 525, "Intensity_RPE": 7, "Notes": "Superset 1" },
+  { "Movement": "Bicep Curl", "Load_kg": 25, "Reps": 15, "Volume_Load": 375, "Intensity_RPE": 7, "Notes": "Superset 1" },
+  { "Movement": "Tricep Pushdown", "Load_kg": 35, "Reps": 15, "Volume_Load": 525, "Intensity_RPE": 7, "Notes": "Superset 2" },
+  { "Movement": "Bicep Curl", "Load_kg": 25, "Reps": 15, "Volume_Load": 375, "Intensity_RPE": 7, "Notes": "Superset 2" }
+]
