@@ -1,0 +1,154 @@
+[
+  {
+    "Movement": "Back Squat",
+    "Load_kg": 70,
+    "Reps": 6,
+    "Volume_Load": 420,
+    "Intensity_RPE": 6.5,
+    "Notes": "Warm-up"
+  },
+  {
+    "Movement": "Back Squat",
+    "Load_kg": 85,
+    "Reps": 12,
+    "Volume_Load": 1020,
+    "Intensity_RPE": 8,
+    "Notes": "Working set 1"
+  },
+  {
+    "Movement": "Back Squat",
+    "Load_kg": 85,
+    "Reps": 12,
+    "Volume_Load": 1020,
+    "Intensity_RPE": 9,
+    "Notes": "Working set 2"
+  },
+  {
+    "Movement": "Back Squat",
+    "Load_kg": 85,
+    "Reps": 10,
+    "Volume_Load": 850,
+    "Intensity_RPE": 10,
+    "Notes": "Failed 11th rep"
+  },
+  {
+    "Movement": "BTN Press",
+    "Load_kg": 30,
+    "Reps": 6,
+    "Volume_Load": 180,
+    "Intensity_RPE": 6,
+    "Notes": "Mobility check"
+  },
+  {
+    "Movement": "Standing OHP",
+    "Load_kg": 30,
+    "Reps": 8,
+    "Volume_Load": 240,
+    "Intensity_RPE": 6,
+    "Notes": "Warm-up"
+  },
+  {
+    "Movement": "Standing OHP",
+    "Load_kg": 40,
+    "Reps": 8,
+    "Volume_Load": 320,
+    "Intensity_RPE": 8,
+    "Notes": "Working set 1"
+  },
+  {
+    "Movement": "Standing OHP",
+    "Load_kg": 40,
+    "Reps": 8,
+    "Volume_Load": 320,
+    "Intensity_RPE": 9,
+    "Notes": "Working set 2"
+  },
+  {
+    "Movement": "Standing OHP",
+    "Load_kg": 40,
+    "Reps": 7,
+    "Volume_Load": 280,
+    "Intensity_RPE": 10,
+    "Notes": "Failed 8th rep"
+  },
+  {
+    "Movement": "Bent Over Row",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 6.5,
+    "Notes": "Back set 1"
+  },
+  {
+    "Movement": "Bent Over Row",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 6.5,
+    "Notes": "Back set 2"
+  },
+  {
+    "Movement": "Bent Over Row",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 7.5,
+    "Notes": "Back set 3"
+  },
+  {
+    "Movement": "Bent Over Row",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 9,
+    "Notes": "Back set 4"
+  },
+  {
+    "Movement": "Assisted Pullups",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 8,
+    "Notes": "Superset A1"
+  },
+  {
+    "Movement": "Assisted Dips",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 7,
+    "Notes": "Superset B1"
+  },
+  {
+    "Movement": "Assisted Pullups",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 8.5,
+    "Notes": "Superset A2"
+  },
+  {
+    "Movement": "Assisted Dips",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 8,
+    "Notes": "Superset B2"
+  },
+  {
+    "Movement": "Assisted Pullups",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 9,
+    "Notes": "Superset A3"
+  },
+  {
+    "Movement": "Assisted Dips",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 9,
+    "Notes": "Superset B3"
+  }
+]
