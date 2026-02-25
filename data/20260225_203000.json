@@ -1,0 +1,114 @@
+[
+  {
+    "Movement": "Squats",
+    "Load_kg": 20,
+    "Reps": 12,
+    "Volume_Load": 240,
+    "Intensity_RPE": 3,
+    "Notes": "Warm-up"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 60,
+    "Reps": 8,
+    "Volume_Load": 480,
+    "Intensity_RPE": 6,
+    "Notes": "Working set"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 110,
+    "Reps": 3,
+    "Volume_Load": 330,
+    "Intensity_RPE": 7.5,
+    "Notes": "Heavy triple"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 70,
+    "Reps": 20,
+    "Volume_Load": 1400,
+    "Intensity_RPE": 8,
+    "Notes": "3-minute set; endurance diagnostic"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 80,
+    "Reps": 12,
+    "Volume_Load": 960,
+    "Intensity_RPE": 8.5,
+    "Notes": "150s; Track: Pain - Dancing with the Dead"
+  },
+  {
+    "Movement": "Deadlift",
+    "Load_kg": 60,
+    "Reps": 10,
+    "Volume_Load": 600,
+    "Intensity_RPE": 5,
+    "Notes": "Technical set"
+  },
+  {
+    "Movement": "Deadlift",
+    "Load_kg": 110,
+    "Reps": 5,
+    "Volume_Load": 550,
+    "Intensity_RPE": 6.5,
+    "Notes": "Working set"
+  },
+  {
+    "Movement": "Deadlift",
+    "Load_kg": 140,
+    "Reps": 1,
+    "Volume_Load": 140,
+    "Intensity_RPE": 7,
+    "Notes": "Heavy single"
+  },
+  {
+    "Movement": "Deadlift",
+    "Load_kg": 160,
+    "Reps": 1,
+    "Volume_Load": 160,
+    "Intensity_RPE": 8.5,
+    "Notes": "Heavy single; Track: Arch Enemy - War Eternal"
+  },
+  {
+    "Movement": "Deadlift",
+    "Load_kg": 170,
+    "Reps": 1,
+    "Volume_Load": 170,
+    "Intensity_RPE": 9,
+    "Notes": "Top Single; Track: Rammstein - Deutschland"
+  },
+  {
+    "Movement": "Overhead Press",
+    "Load_kg": 30,
+    "Reps": 10,
+    "Volume_Load": 300,
+    "Intensity_RPE": 7,
+    "Notes": "Volume"
+  },
+  {
+    "Movement": "Overhead Press",
+    "Load_kg": 40,
+    "Reps": 3,
+    "Volume_Load": 120,
+    "Intensity_RPE": 7,
+    "Notes": "Strength set"
+  },
+  {
+    "Movement": "Overhead Press",
+    "Load_kg": 50,
+    "Reps": 2,
+    "Volume_Load": 100,
+    "Intensity_RPE": 9.5,
+    "Notes": "Top Double"
+  },
+  {
+    "Movement": "Overhead Press",
+    "Load_kg": 40,
+    "Reps": 10,
+    "Volume_Load": 400,
+    "Intensity_RPE": 8.5,
+    "Notes": "Back-off volume"
+  }
+]
