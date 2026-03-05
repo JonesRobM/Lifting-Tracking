@@ -1,0 +1,146 @@
+[
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 70,
+        "Reps": 5,
+        "Volume_Load": 350,
+        "Intensity_RPE": 6,
+        "Notes": "Warm up"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 120,
+        "Reps": 1,
+        "Volume_Load": 120,
+        "Intensity_RPE": 6,
+        "Notes": "Standard ramp"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 140,
+        "Reps": 1,
+        "Volume_Load": 140,
+        "Intensity_RPE": 6.5,
+        "Notes": "Smooth"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 160,
+        "Reps": 1,
+        "Volume_Load": 160,
+        "Intensity_RPE": 8.5,
+        "Notes": "Heavy single"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 140,
+        "Reps": 5,
+        "Volume_Load": 700,
+        "Intensity_RPE": 8.5,
+        "Notes": "Back-off volume after 170kg fail"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 140,
+        "Reps": 5,
+        "Volume_Load": 700,
+        "Intensity_RPE": 9,
+        "Notes": "Back-off set 2"
+    },
+    {
+        "Movement": "Deadlift",
+        "Load_kg": 120,
+        "Reps": 6,
+        "Volume_Load": 720,
+        "Intensity_RPE": 9,
+        "Notes": "Final hinge volume"
+    },
+    {
+        "Movement": "BTN Press",
+        "Load_kg": 30,
+        "Reps": 8,
+        "Volume_Load": 240,
+        "Intensity_RPE": 6,
+        "Notes": "Shoulder mobility focus"
+    },
+    {
+        "Movement": "Overhead Press",
+        "Load_kg": 40,
+        "Reps": 6,
+        "Volume_Load": 240,
+        "Intensity_RPE": 7,
+        "Notes": "Standard OHP"
+    },
+    {
+        "Movement": "Overhead Press",
+        "Load_kg": 50,
+        "Reps": 2,
+        "Volume_Load": 100,
+        "Intensity_RPE": 8,
+        "Notes": "Intensity ramp"
+    },
+    {
+        "Movement": "Overhead Press",
+        "Load_kg": 55,
+        "Reps": 1,
+        "Volume_Load": 55,
+        "Intensity_RPE": 10,
+        "Notes": "Single; failed 2nd rep"
+    },
+    {
+        "Movement": "Overhead Press",
+        "Load_kg": 45,
+        "Reps": 5,
+        "Volume_Load": 225,
+        "Intensity_RPE": 9,
+        "Notes": "Press volume"
+    },
+    {
+        "Movement": "Overhead Press",
+        "Load_kg": 45,
+        "Reps": 5,
+        "Volume_Load": 225,
+        "Intensity_RPE": 9.5,
+        "Notes": "Final OHP grind"
+    },
+    {
+        "Movement": "Barbell Row",
+        "Load_kg": 45,
+        "Reps": 8,
+        "Volume_Load": 360,
+        "Intensity_RPE": 7,
+        "Notes": "Horizontal pull accessory"
+    },
+    {
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 8,
+        "Volume_Load": 400,
+        "Intensity_RPE": 8,
+        "Notes": "Row set 1"
+    },
+    {
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 8,
+        "Volume_Load": 400,
+        "Intensity_RPE": 8,
+        "Notes": "Row set 2"
+    },
+    {
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 8,
+        "Volume_Load": 400,
+        "Intensity_RPE": 8,
+        "Notes": "Row set 3"
+    },
+    {
+        "Movement": "Barbell Row",
+        "Load_kg": 40,
+        "Reps": 15,
+        "Volume_Load": 600,
+        "Intensity_RPE": 8.5,
+        "Notes": "High-rep burner finisher"
+    }
+]

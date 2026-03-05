@@ -1,0 +1,186 @@
+[
+  {
+    "Movement": "Squats",
+    "Load_kg": 20,
+    "Reps": 8,
+    "Volume_Load": 160,
+    "Intensity_RPE": 3,
+    "Notes": "Warm-up"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 70,
+    "Reps": 5,
+    "Volume_Load": 350,
+    "Intensity_RPE": 6,
+    "Notes": "Acclimation"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 90,
+    "Reps": 1,
+    "Volume_Load": 90,
+    "Intensity_RPE": 6,
+    "Notes": "Technical single"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 120,
+    "Reps": 1,
+    "Volume_Load": 120,
+    "Intensity_RPE": 7.5,
+    "Notes": "Technical single"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 140,
+    "Reps": 0,
+    "Volume_Load": 0,
+    "Intensity_RPE": 10,
+    "Notes": "FAILED 140kg - Bailed safely due to instability on descent"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 80,
+    "Reps": 20,
+    "Volume_Load": 1600,
+    "Intensity_RPE": 8.5,
+    "Notes": "Bingo progress: +10kg from last week"
+  },
+  {
+    "Movement": "Squats",
+    "Load_kg": 80,
+    "Reps": 8,
+    "Volume_Load": 640,
+    "Intensity_RPE": 10,
+    "Notes": "Failed on 9th rep; metabolic failure"
+  },
+  {
+    "Movement": "Bench",
+    "Load_kg": 20,
+    "Reps": 8,
+    "Volume_Load": 160,
+    "Intensity_RPE": 4,
+    "Notes": "Warm-up"
+  },
+  {
+    "Movement": "Bench",
+    "Load_kg": 40,
+    "Reps": 8,
+    "Volume_Load": 320,
+    "Intensity_RPE": 6,
+    "Notes": "Volume"
+  },
+  {
+    "Movement": "Bench",
+    "Load_kg": 60,
+    "Reps": 3,
+    "Volume_Load": 180,
+    "Intensity_RPE": 7,
+    "Notes": "Triple"
+  },
+  {
+    "Movement": "Bench",
+    "Load_kg": 70,
+    "Reps": 3,
+    "Volume_Load": 210,
+    "Intensity_RPE": 8.5,
+    "Notes": "Heavy triple"
+  },
+  {
+    "Movement": "Bench",
+    "Load_kg": 75,
+    "Reps": 1,
+    "Volume_Load": 75,
+    "Intensity_RPE": 8.75,
+    "Notes": "Top single"
+  },
+  {
+    "Movement": "Pause Bench",
+    "Load_kg": 50,
+    "Reps": 10,
+    "Volume_Load": 500,
+    "Intensity_RPE": 8,
+    "Notes": "Paused volume"
+  },
+  {
+    "Movement": "Lat Pulldown",
+    "Load_kg": 40,
+    "Reps": 8,
+    "Volume_Load": 320,
+    "Intensity_RPE": 6,
+    "Notes": "Accessory set 1"
+  },
+  {
+    "Movement": "Lat Pulldown",
+    "Load_kg": 50,
+    "Reps": 8,
+    "Volume_Load": 400,
+    "Intensity_RPE": 6.5,
+    "Notes": "Accessory set 2"
+  },
+  {
+    "Movement": "Lat Pulldown",
+    "Load_kg": 63,
+    "Reps": 6,
+    "Volume_Load": 378,
+    "Intensity_RPE": 8,
+    "Notes": "Accessory set 3"
+  },
+  {
+    "Movement": "Lat Pulldown",
+    "Load_kg": 63,
+    "Reps": 6,
+    "Volume_Load": 378,
+    "Intensity_RPE": 8.5,
+    "Notes": "Accessory set 4"
+  },
+  {
+    "Movement": "Rear Delt Fly",
+    "Load_kg": 11,
+    "Reps": 15,
+    "Volume_Load": 165,
+    "Intensity_RPE": 5,
+    "Notes": "Superset A1"
+  },
+  {
+    "Movement": "Chest Fly",
+    "Load_kg": 32,
+    "Reps": 15,
+    "Volume_Load": 480,
+    "Intensity_RPE": 5,
+    "Notes": "Superset B1"
+  },
+  {
+    "Movement": "Rear Delt Fly",
+    "Load_kg": 33,
+    "Reps": 15,
+    "Volume_Load": 495,
+    "Intensity_RPE": 7,
+    "Notes": "Superset A2"
+  },
+  {
+    "Movement": "Chest Fly",
+    "Load_kg": 59,
+    "Reps": 12,
+    "Volume_Load": 708,
+    "Intensity_RPE": 8,
+    "Notes": "Superset B2"
+  },
+  {
+    "Movement": "Rear Delt Fly",
+    "Load_kg": 39,
+    "Reps": 15,
+    "Volume_Load": 585,
+    "Intensity_RPE": 9,
+    "Notes": "Superset A3"
+  },
+  {
+    "Movement": "Chest Fly",
+    "Load_kg": 66,
+    "Reps": 12,
+    "Volume_Load": 792,
+    "Intensity_RPE": 9,
+    "Notes": "Superset B3"
+  }
+]
