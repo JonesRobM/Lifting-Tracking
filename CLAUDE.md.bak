@@ -26,7 +26,7 @@ Personal weightlifting tracker that syncs workout data from JSON files to an Exc
 ### Movement Family Mapping
 Exercises are grouped into families via `FAMILY_MAP` (exact match) with `FAMILY_KEYWORDS` fallback (case-insensitive substring match). The `map_movement_to_family()` function tries exact match first, then keywords, then returns "Other" with a warning.
 - **Squat**: Front Squat, Back Squat, Zercher Squat, Pause Squat
-- **Hinge**: Deadlift, Zercher Deadlift, Romanian Deadlift, Kettlebell Swings, Back Extension, Hyperextension
+- **Hinge**: Deadlift, Zercher Deadlift, Romanian Deadlift, Kettlebell Swings
 - **Push (H)**: Bench Press, Incline Press, DB Press, Dips, Pullover, Chest Fly
 - **Push (V)**: Standing OHP, Overhead Press, DB Shoulder Press, Behind the Neck Press
 - **Pull (H)**: Bent over Rows, Cable Rows, Seated Row, Rear Delt Fly
@@ -71,50 +71,3 @@ Run all cells sequentially:
 20. **Fatigue Accumulation** - Dual-axis: fatigue index (sets x RPE) vs session-best e1RM
 21. **RPE Drift Within Sessions** - First-half vs second-half RPE comparison per session
 22. **Recommended Next Session** - Rule-based recommender: priority scoring, progressive loading, accessories + arms
-
-<!-- ooo:START -->
-<!-- ooo:VERSION:0.14.0 -->
-# Ouroboros — Specification-First AI Development
-
-> Before telling AI what to build, define what should be built.
-> As Socrates asked 2,500 years ago — "What do you truly know?"
-> Ouroboros turns that question into an evolutionary AI workflow engine.
-
-Most AI coding fails at the input, not the output. Ouroboros fixes this by
-**exposing hidden assumptions before any code is written**.
-
-1. **Socratic Clarity** — Question until ambiguity ≤ 0.2
-2. **Ontological Precision** — Solve the root problem, not symptoms
-3. **Evolutionary Loops** — Each evaluation cycle feeds back into better specs
-
-```
-Interview → Seed → Execute → Evaluate
-    ↑                           ↓
-    └─── Evolutionary Loop ─────┘
-```
-
-## ooo Commands
-
-Each command loads its agent/MCP on-demand. Details in each skill file.
-
-| Command | Loads |
-|---------|-------|
-| `ooo` | — |
-| `ooo interview` | `ouroboros:socratic-interviewer` |
-| `ooo seed` | `ouroboros:seed-architect` |
-| `ooo run` | MCP required |
-| `ooo evolve` | MCP: `evolve_step` |
-| `ooo evaluate` | `ouroboros:evaluator` |
-| `ooo unstuck` | `ouroboros:{persona}` |
-| `ooo status` | MCP: `session_status` |
-| `ooo setup` | — |
-| `ooo help` | — |
-
-## Agents
-
-Loaded on-demand — not preloaded.
-
-**Core**: socratic-interviewer, ontologist, seed-architect, evaluator,
-wonder, reflect, advocate, contrarian, judge
-**Support**: hacker, simplifier, researcher, architect
-<!-- ooo:END -->

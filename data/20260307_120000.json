@@ -1,0 +1,263 @@
+[
+  {
+    "Timestamp": "2026-03-07 11:30:00",
+    "Movement": "Incline Bench Press",
+    "Load_kg": 20,
+    "Reps": 8,
+    "Volume_Load": 160,
+    "Intensity_RPE": 5,
+    "Notes": "Warm up"
+  },
+  {
+    "Timestamp": "2026-03-07 11:35:00",
+    "Movement": "Incline Bench Press",
+    "Load_kg": 40,
+    "Reps": 5,
+    "Volume_Load": 200,
+    "Intensity_RPE": 6,
+    "Notes": "Incremental build"
+  },
+  {
+    "Timestamp": "2026-03-07 11:42:00",
+    "Movement": "Incline Bench Press",
+    "Load_kg": 50,
+    "Reps": 6,
+    "Volume_Load": 300,
+    "Intensity_RPE": 7,
+    "Notes": "Working set"
+  },
+  {
+    "Timestamp": "2026-03-07 11:50:00",
+    "Movement": "Flat Bench Press",
+    "Load_kg": 50,
+    "Reps": 8,
+    "Volume_Load": 400,
+    "Intensity_RPE": 6.5,
+    "Notes": "High RIR"
+  },
+  {
+    "Timestamp": "2026-03-07 11:58:00",
+    "Movement": "Pause Bench Press",
+    "Load_kg": 60,
+    "Reps": 3,
+    "Volume_Load": 180,
+    "Intensity_RPE": 7,
+    "Notes": "Focus on dead-stop force"
+  },
+  {
+    "Timestamp": "2026-03-07 12:05:00",
+    "Movement": "Pause Bench Press",
+    "Load_kg": 70,
+    "Reps": 1,
+    "Volume_Load": 70,
+    "Intensity_RPE": 7.75,
+    "Notes": "Heavy single"
+  },
+  {
+    "Timestamp": "2026-03-07 12:10:00",
+    "Movement": "Pause Bench Press",
+    "Load_kg": 75,
+    "Reps": 1,
+    "Volume_Load": 75,
+    "Intensity_RPE": 8,
+    "Notes": "Successful heavy single"
+  },
+  {
+    "Timestamp": "2026-03-07 12:15:00",
+    "Movement": "Pause Bench Press",
+    "Load_kg": 77.5,
+    "Reps": 0,
+    "Volume_Load": 0,
+    "Intensity_RPE": 10,
+    "Notes": "Failed at start of concentric"
+  },
+  {
+    "Timestamp": "2026-03-07 12:22:00",
+    "Movement": "Flat Bench Press",
+    "Load_kg": 66.25,
+    "Reps": 5,
+    "Volume_Load": 331.25,
+    "Intensity_RPE": 9,
+    "Notes": "Asymmetric load error (L:23.75, R:22.5); 2s lockout lag"
+  },
+  {
+    "Timestamp": "2026-03-07 12:28:00",
+    "Movement": "Flat Bench Press",
+    "Load_kg": 60,
+    "Reps": 5,
+    "Volume_Load": 300,
+    "Intensity_RPE": 8.25,
+    "Notes": "Symmetrical recalibration"
+  },
+  {
+    "Timestamp": "2026-03-07 12:35:00",
+    "Movement": "Machine Chest Press",
+    "Load_kg": 30,
+    "Reps": 12,
+    "Volume_Load": 360,
+    "Intensity_RPE": 6,
+    "Notes": "Metabolic flush"
+  },
+  {
+    "Timestamp": "2026-03-07 12:40:00",
+    "Movement": "Machine Chest Press",
+    "Load_kg": 50,
+    "Reps": 8,
+    "Volume_Load": 400,
+    "Intensity_RPE": 8.5,
+    "Notes": "Fixed path hypertrophy"
+  },
+  {
+    "Timestamp": "2026-03-07 12:44:00",
+    "Movement": "Machine Chest Press",
+    "Load_kg": 50,
+    "Reps": 8,
+    "Volume_Load": 400,
+    "Intensity_RPE": 8,
+    "Notes": "Technical proficiency improved"
+  },
+  {
+    "Timestamp": "2026-03-07 12:48:00",
+    "Movement": "Machine Chest Press",
+    "Load_kg": 50,
+    "Reps": 6,
+    "Volume_Load": 300,
+    "Intensity_RPE": 10,
+    "Notes": "Failure on 7th rep"
+  },
+  {
+    "Timestamp": "2026-03-07 12:55:00",
+    "Movement": "Unloaded Back Extension",
+    "Load_kg": 0,
+    "Reps": 10,
+    "Volume_Load": 0,
+    "Intensity_RPE": 6,
+    "Notes": "Posterior chain recovery"
+  },
+  {
+    "Timestamp": "2026-03-07 12:58:00",
+    "Movement": "Weighted Back Extension",
+    "Load_kg": 25,
+    "Reps": 6,
+    "Volume_Load": 150,
+    "Intensity_RPE": 8,
+    "Notes": "High intensity spinal stability"
+  },
+  {
+    "Timestamp": "2026-03-07 13:02:00",
+    "Movement": "Weighted Back Extension",
+    "Load_kg": 25,
+    "Reps": 8,
+    "Volume_Load": 200,
+    "Intensity_RPE": 8,
+    "Notes": "Improved work capacity"
+  },
+  {
+    "Timestamp": "2026-03-07 13:06:00",
+    "Movement": "Weighted Back Extension",
+    "Load_kg": 25,
+    "Reps": 8,
+    "Volume_Load": 200,
+    "Intensity_RPE": 8.5,
+    "Notes": "Significant lumbar pump"
+  },
+  {
+    "Timestamp": "2026-03-07 13:12:00",
+    "Movement": "Lat Pulldown",
+    "Load_kg": 45,
+    "Reps": 12,
+    "Volume_Load": 540,
+    "Intensity_RPE": 6.5,
+    "Notes": "Vertical pull intro"
+  },
+  {
+    "Timestamp": "2026-03-07 13:18:00",
+    "Movement": "Lat Pulldown",
+    "Load_kg": 60,
+    "Reps": 8,
+    "Volume_Load": 480,
+    "Intensity_RPE": 8,
+    "Notes": "Lat focus"
+  },
+  {
+    "Timestamp": "2026-03-07 13:22:00",
+    "Movement": "Lat Pulldown",
+    "Load_kg": 60,
+    "Reps": 8,
+    "Volume_Load": 480,
+    "Intensity_RPE": 7.5,
+    "Notes": "Neuromuscular facilitation"
+  },
+  {
+    "Timestamp": "2026-03-07 13:26:00",
+    "Movement": "Lat Pulldown",
+    "Load_kg": 60,
+    "Reps": 8,
+    "Volume_Load": 480,
+    "Intensity_RPE": 7.5,
+    "Notes": "Steady state performance"
+  },
+  {
+    "Timestamp": "2026-03-07 13:30:00",
+    "Movement": "Lat Pulldown",
+    "Load_kg": 60,
+    "Reps": 8,
+    "Volume_Load": 480,
+    "Intensity_RPE": 9,
+    "Notes": "Peripheral fatigue setting in"
+  },
+  {
+    "Timestamp": "2026-03-07 13:38:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 10,
+    "Volume_Load": 400,
+    "Intensity_RPE": 8,
+    "Notes": "Horizontal pull focus"
+  },
+  {
+    "Timestamp": "2026-03-07 13:42:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 7.5,
+    "Notes": "Optimized seat position"
+  },
+  {
+    "Timestamp": "2026-03-07 13:46:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 8,
+    "Notes": "Accumulated intra-set fatigue"
+  },
+  {
+    "Timestamp": "2026-03-07 13:50:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 8,
+    "Notes": "Volume accumulation"
+  },
+  {
+    "Timestamp": "2026-03-07 13:54:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 8.5,
+    "Notes": "End of back volume"
+  },
+  {
+    "Timestamp": "2026-03-07 13:58:00",
+    "Movement": "Machine Rows",
+    "Load_kg": 40,
+    "Reps": 12,
+    "Volume_Load": 480,
+    "Intensity_RPE": 9,
+    "Notes": "Final terminal set"
+  }
+]
