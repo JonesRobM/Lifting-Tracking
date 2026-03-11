@@ -1,0 +1,191 @@
+[
+    {
+        "Timestamp": "2026-03-08 16:00:00",
+        "Movement": "Back Squat",
+        "Load_kg": 20,
+        "Reps": 8,
+        "Volume_Load": 160,
+        "Intensity_RPE": 5,
+        "Notes": "Technical warmup"
+    },
+    {
+        "Timestamp": "2026-03-08 16:10:00",
+        "Movement": "Back Squat",
+        "Load_kg": 70,
+        "Reps": 5,
+        "Volume_Load": 350,
+        "Intensity_RPE": 6,
+        "Notes": "Focus on bar path"
+    },
+    {
+        "Timestamp": "2026-03-08 16:20:00",
+        "Movement": "Back Squat",
+        "Load_kg": 120,
+        "Reps": 1,
+        "Volume_Load": 120,
+        "Intensity_RPE": 7.5,
+        "Notes": "High-intensity single"
+    },
+    {
+        "Timestamp": "2026-03-08 16:30:00",
+        "Movement": "Back Squat",
+        "Load_kg": 110,
+        "Reps": 5,
+        "Volume_Load": 550,
+        "Intensity_RPE": 8.5,
+        "Notes": "Heavy volume"
+    },
+    {
+        "Timestamp": "2026-03-08 16:40:00",
+        "Movement": "Back Squat",
+        "Load_kg": 110,
+        "Reps": 4,
+        "Volume_Load": 440,
+        "Intensity_RPE": 10,
+        "Notes": "Failed 5th rep"
+    },
+    {
+        "Timestamp": "2026-03-08 16:50:00",
+        "Movement": "Back Squat",
+        "Load_kg": 100,
+        "Reps": 3,
+        "Volume_Load": 300,
+        "Intensity_RPE": 9.5,
+        "Notes": "Brace compromised"
+    },
+    {
+        "Timestamp": "2026-03-08 17:00:00",
+        "Movement": "Barbell Row",
+        "Load_kg": 40,
+        "Reps": 15,
+        "Volume_Load": 600,
+        "Intensity_RPE": 6,
+        "Notes": "High-rep accessory"
+    },
+    {
+        "Timestamp": "2026-03-08 17:05:00",
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 12,
+        "Volume_Load": 600,
+        "Intensity_RPE": 7,
+        "Notes": "Stable torso"
+    },
+    {
+        "Timestamp": "2026-03-08 17:10:00",
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 12,
+        "Volume_Load": 600,
+        "Intensity_RPE": 7.5,
+        "Notes": "Maintaining hinge"
+    },
+    {
+        "Timestamp": "2026-03-08 17:15:00",
+        "Movement": "Barbell Row",
+        "Load_kg": 50,
+        "Reps": 12,
+        "Volume_Load": 600,
+        "Intensity_RPE": 8.5,
+        "Notes": "Fatigue summation"
+    },
+    {
+        "Timestamp": "2026-03-08 17:20:00",
+        "Movement": "BTN Standing Press",
+        "Load_kg": 30,
+        "Reps": 10,
+        "Volume_Load": 300,
+        "Intensity_RPE": 6,
+        "Notes": "Mobility focus"
+    },
+    {
+        "Timestamp": "2026-03-08 17:25:00",
+        "Movement": "Standing OHP",
+        "Load_kg": 30,
+        "Reps": 10,
+        "Volume_Load": 300,
+        "Intensity_RPE": 6.5,
+        "Notes": "Technical transition"
+    },
+    {
+        "Timestamp": "2026-03-08 17:30:00",
+        "Movement": "Standing OHP",
+        "Load_kg": 40,
+        "Reps": 10,
+        "Volume_Load": 400,
+        "Intensity_RPE": 8.5,
+        "Notes": "Pushing head through window"
+    },
+    {
+        "Timestamp": "2026-03-08 17:35:00",
+        "Movement": "Standing OHP",
+        "Load_kg": 40,
+        "Reps": 8,
+        "Volume_Load": 320,
+        "Intensity_RPE": 10,
+        "Notes": "Failed 9th + 2 partials"
+    },
+    {
+        "Timestamp": "2026-03-08 17:40:00",
+        "Movement": "Standing OHP",
+        "Load_kg": 40,
+        "Reps": 8,
+        "Volume_Load": 320,
+        "Intensity_RPE": 9,
+        "Notes": "Final high-effort OHP"
+    },
+    {
+        "Timestamp": "2026-03-08 17:45:00",
+        "Movement": "EZ Bar Curl",
+        "Load_kg": 30,
+        "Reps": 5,
+        "Volume_Load": 150,
+        "Intensity_RPE": 8,
+        "Notes": "Superset 1A"
+    },
+    {
+        "Timestamp": "2026-03-08 17:45:00",
+        "Movement": "EZ Bar Skullcrusher",
+        "Load_kg": 30,
+        "Reps": 12,
+        "Volume_Load": 360,
+        "Intensity_RPE": 8,
+        "Notes": "Superset 1B"
+    },
+    {
+        "Timestamp": "2026-03-08 17:50:00",
+        "Movement": "EZ Bar Curl",
+        "Load_kg": 30,
+        "Reps": 6,
+        "Volume_Load": 180,
+        "Intensity_RPE": 8.5,
+        "Notes": "Superset 2A"
+    },
+    {
+        "Timestamp": "2026-03-08 17:50:00",
+        "Movement": "EZ Bar Skullcrusher",
+        "Load_kg": 30,
+        "Reps": 12,
+        "Volume_Load": 360,
+        "Intensity_RPE": 8.5,
+        "Notes": "Superset 2B"
+    },
+    {
+        "Timestamp": "2026-03-08 17:55:00",
+        "Movement": "EZ Bar Curl",
+        "Load_kg": 30,
+        "Reps": 6,
+        "Volume_Load": 180,
+        "Intensity_RPE": 9,
+        "Notes": "Superset 3A"
+    },
+    {
+        "Timestamp": "2026-03-08 17:55:00",
+        "Movement": "EZ Bar Skullcrusher",
+        "Load_kg": 30,
+        "Reps": 12,
+        "Volume_Load": 360,
+        "Intensity_RPE": 9,
+        "Notes": "Superset 3B"
+    }
+]
