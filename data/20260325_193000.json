@@ -1,0 +1,21 @@
+[
+    {"Movement": "Deadlift", "Load_kg": 70, "Reps": 10, "Volume_Load": 700, "Intensity_RPE": 4.5, "Notes": "CNS Check"},
+    {"Movement": "Deadlift", "Load_kg": 120, "Reps": 1, "Volume_Load": 120, "Intensity_RPE": 5, "Notes": "Butter"},
+    {"Movement": "Deadlift", "Load_kg": 160, "Reps": 1, "Volume_Load": 160, "Intensity_RPE": 7.5, "Notes": "Easy"},
+    {"Movement": "Deadlift", "Load_kg": 160, "Reps": 3, "Volume_Load": 480, "Intensity_RPE": 8.5, "Notes": "Felt great"},
+    {"Movement": "Deadlift", "Load_kg": 170, "Reps": 1, "Volume_Load": 170, "Intensity_RPE": 8.5, "Notes": "Smooth finish"},
+    {"Movement": "Deadlift", "Load_kg": 180, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Fail (Lockout)"},
+    {"Movement": "Deadlift", "Load_kg": 180, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Fail (Floor)"},
+    {"Movement": "Deadlift", "Load_kg": 140, "Reps": 5, "Volume_Load": 700, "Intensity_RPE": 8.5, "Notes": "Back-off"},
+    {"Movement": "Deadlift", "Load_kg": 140, "Reps": 5, "Volume_Load": 700, "Intensity_RPE": 9.5, "Notes": "High fatigue"},
+    {"Movement": "Deadlift", "Load_kg": 140, "Reps": 5, "Volume_Load": 700, "Intensity_RPE": 9.5, "Notes": "That sucked"},
+    {"Movement": "Bench Press", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 4, "Notes": "Warm-up"},
+    {"Movement": "Bench Press", "Load_kg": 40, "Reps": 10, "Volume_Load": 400, "Intensity_RPE": 5, "Notes": "Warm-up"},
+    {"Movement": "Bench Press", "Load_kg": 60, "Reps": 3, "Volume_Load": 180, "Intensity_RPE": 6, "Notes": "Snappy"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 1, "Volume_Load": 70, "Intensity_RPE": 7, "Notes": "Controlled"},
+    {"Movement": "Bench Press", "Load_kg": 80, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Fail"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 8.5, "Notes": "Recovery triple"},
+    {"Movement": "Bench Press", "Load_kg": 65, "Reps": 5, "Volume_Load": 325, "Intensity_RPE": 8, "Notes": "Volume"},
+    {"Movement": "Bench Press", "Load_kg": 65, "Reps": 5, "Volume_Load": 325, "Intensity_RPE": 8.5, "Notes": "Volume"},
+    {"Movement": "Bench Press", "Load_kg": 65, "Reps": 5, "Volume_Load": 325, "Intensity_RPE": 9.5, "Notes": "Fatigue limit"}
+]
