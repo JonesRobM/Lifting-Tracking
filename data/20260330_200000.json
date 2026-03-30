@@ -1,0 +1,19 @@
+[
+    {"Movement": "Squats", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 3, "Notes": "Warm-up set"},
+    {"Movement": "Squat", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 5, "Notes": "Progressive warm-up / feeder set"},
+    {"Movement": "Squat", "Load_kg": 120, "Reps": 3, "Volume_Load": 360, "Intensity_RPE": 8, "Notes": "High-intensity technical set"},
+    {"Movement": "Squat", "Load_kg": 130, "Reps": 1, "Volume_Load": 130, "Intensity_RPE": 8.5, "Notes": "Heavy single; technical peak"},
+    {"Movement": "Squat", "Load_kg": 100, "Reps": 8, "Volume_Load": 800, "Intensity_RPE": 8.5, "Notes": "Volume accumulation at target weight"},
+    {"Movement": "Squat", "Load_kg": 100, "Reps": 8, "Volume_Load": 800, "Intensity_RPE": 8.5, "Notes": "Volume accumulation set 2"},
+    {"Movement": "Squat", "Load_kg": 70, "Reps": 20, "Volume_Load": 1400, "Intensity_RPE": 7.5, "Notes": "High volume set; restricted breathing (belt)"},
+    {"Movement": "Bench Press", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 3, "Notes": "Warm-up set"},
+    {"Movement": "Bench Press", "Load_kg": 50, "Reps": 6, "Volume_Load": 300, "Intensity_RPE": 6, "Notes": "Progressive warm-up set"},
+    {"Movement": "Bench Press", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7, "Notes": "Moderate-intensity working set"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 5, "Volume_Load": 350, "Intensity_RPE": 8, "Notes": "High-intensity working set"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 5, "Volume_Load": 350, "Intensity_RPE": 9, "Notes": "High-intensity working set"},
+    {"Movement": "Bench Press", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 8.5, "Notes": "Back-off volume set"},
+    {"Movement": "Bench Press", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 9.5, "Notes": "Volume accumulation set 2"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 22, "Reps": 12, "Volume_Load": 264, "Intensity_RPE": 7.5, "Notes": "Accessory volume"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 22, "Reps": 12, "Volume_Load": 264, "Intensity_RPE": 8, "Notes": "Accessory volume set 2"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 22, "Reps": 12, "Volume_Load": 264, "Intensity_RPE": 9, "Notes": "R-Shoulder instability noted"}
+]
