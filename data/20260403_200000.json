@@ -1,0 +1,20 @@
+[
+    { "Movement": "Bench", "Load_kg": 20, "Reps": 8, "Volume_Load": 160, "Intensity_RPE": 4, "Notes": "Warm-up" },
+    { "Movement": "Bench", "Load_kg": 60, "Reps": 5, "Volume_Load": 300, "Intensity_RPE": 6.5, "Notes": "" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 1, "Volume_Load": 70, "Intensity_RPE": 7.5, "Notes": "Single" },
+    { "Movement": "Bench", "Load_kg": 80, "Reps": 1, "Volume_Load": 80, "Intensity_RPE": 8, "Notes": "Single" },
+    { "Movement": "Bench", "Load_kg": 85, "Reps": 1, "Volume_Load": 85, "Intensity_RPE": 8.5, "Notes": "Single" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 8, "Notes": "Back-off volume" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 8.5, "Notes": "" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 9, "Notes": "" },
+    { "Movement": "Zercher squat", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 3, "Notes": "Warm-up" },
+    { "Movement": "Zercher squat", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 5, "Notes": "" },
+    { "Movement": "Zercher squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 8, "Notes": "" },
+    { "Movement": "Zercher squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 8.5, "Notes": "" },
+    { "Movement": "Zercher squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 9, "Notes": "" },
+    { "Movement": "Standing OHP", "Load_kg": 30, "Reps": 12, "Volume_Load": 360, "Intensity_RPE": 6, "Notes": "" },
+    { "Movement": "Standing OHP", "Load_kg": 40, "Reps": 3, "Volume_Load": 120, "Intensity_RPE": 6, "Notes": "" },
+    { "Movement": "Standing OHP", "Load_kg": 40, "Reps": 10, "Volume_Load": 400, "Intensity_RPE": 8, "Notes": "" },
+    { "Movement": "Standing OHP", "Load_kg": 40, "Reps": 10, "Volume_Load": 400, "Intensity_RPE": 8.5, "Notes": "" },
+    { "Movement": "Standing OHP", "Load_kg": 40, "Reps": 10, "Volume_Load": 400, "Intensity_RPE": 9.5, "Notes": "High effort finish" }
+]

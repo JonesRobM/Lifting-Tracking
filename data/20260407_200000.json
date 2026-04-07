@@ -1,0 +1,22 @@
+[
+    {"Movement": "Bench Press", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 3, "Notes": "Primer set"},
+    {"Movement": "Bench Press", "Load_kg": 60, "Reps": 5, "Volume_Load": 300, "Intensity_RPE": 6, "Notes": ""},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 7.5, "Notes": ""},
+    {"Movement": "Bench Press", "Load_kg": 80, "Reps": 1, "Volume_Load": 80, "Intensity_RPE": 8.5, "Notes": "Bad hand placement"},
+    {"Movement": "Bench Press", "Load_kg": 85, "Reps": 1, "Volume_Load": 85, "Intensity_RPE": 9, "Notes": "Real grind especially rhs"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 8, "Notes": "Back-off volume"},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 9, "Notes": ""},
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 5, "Volume_Load": 350, "Intensity_RPE": 10, "Notes": "Failed rep 6"},
+    {"Movement": "Deadlift", "Load_kg": 70, "Reps": 8, "Volume_Load": 560, "Intensity_RPE": 5, "Notes": "Hinge primer"},
+    {"Movement": "Deadlift", "Load_kg": 120, "Reps": 5, "Volume_Load": 600, "Intensity_RPE": 7, "Notes": ""},
+    {"Movement": "Deadlift", "Load_kg": 160, "Reps": 1, "Volume_Load": 160, "Intensity_RPE": 7.5, "Notes": ""},
+    {"Movement": "Deadlift", "Load_kg": 180, "Reps": 1, "Volume_Load": 180, "Intensity_RPE": 8.5, "Notes": "Smooth and comfortable"},
+    {"Movement": "Deadlift", "Load_kg": 160, "Reps": 3, "Volume_Load": 480, "Intensity_RPE": 9, "Notes": ""},
+    {"Movement": "Deadlift", "Load_kg": 140, "Reps": 5, "Volume_Load": 700, "Intensity_RPE": 9, "Notes": ""},
+    {"Movement": "Deadlift", "Load_kg": 120, "Reps": 10, "Volume_Load": 1200, "Intensity_RPE": 8.5, "Notes": "High-rep finisher"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 7, "Notes": "Focus on lat stretch"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 7, "Notes": ""},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 7, "Notes": ""},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 7.5, "Notes": ""},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 8, "Notes": ""}
+]

@@ -1,0 +1,23 @@
+[
+    { "Movement": "Bench", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 3, "Notes": "Warm-up" },
+    { "Movement": "Bench", "Load_kg": 60, "Reps": 5, "Volume_Load": 300, "Intensity_RPE": 7, "Notes": "" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 7.5, "Notes": "" },
+    { "Movement": "Bench", "Load_kg": 80, "Reps": 1, "Volume_Load": 80, "Intensity_RPE": 8.5, "Notes": "Heavy single" },
+    { "Movement": "Bench", "Load_kg": 85, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Failed attempt" },
+    { "Movement": "Bench", "Load_kg": 65, "Reps": 10, "Volume_Load": 650, "Intensity_RPE": 9, "Notes": "Back-off volume" },
+    { "Movement": "Bench", "Load_kg": 65, "Reps": 10, "Volume_Load": 650, "Intensity_RPE": 9.5, "Notes": "" },
+    { "Movement": "Bench", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 8, "Notes": "" },
+    { "Movement": "Squat", "Load_kg": 20, "Reps": 10, "Volume_Load": 200, "Intensity_RPE": 3, "Notes": "Warm-up" },
+    { "Movement": "Squat", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 5, "Notes": "" },
+    { "Movement": "Squat", "Load_kg": 100, "Reps": 1, "Volume_Load": 100, "Intensity_RPE": 5, "Notes": "Bingo target weight" },
+    { "Movement": "Squat", "Load_kg": 120, "Reps": 1, "Volume_Load": 120, "Intensity_RPE": 7.5, "Notes": "" },
+    { "Movement": "Squat", "Load_kg": 130, "Reps": 1, "Volume_Load": 130, "Intensity_RPE": 8.5, "Notes": "Top single" },
+    { "Movement": "Squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 8, "Notes": "High-intensity volume" },
+    { "Movement": "Squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 8, "Notes": "Repeat set" },
+    { "Movement": "Squat", "Load_kg": 110, "Reps": 5, "Volume_Load": 550, "Intensity_RPE": 9.5, "Notes": "Final push" },
+    { "Movement": "OHP", "Load_kg": 30, "Reps": 12, "Volume_Load": 360, "Intensity_RPE": 6, "Notes": "Initial set" },
+    { "Movement": "OHP", "Load_kg": 40, "Reps": 5, "Volume_Load": 200, "Intensity_RPE": 8, "Notes": "" },
+    { "Movement": "OHP", "Load_kg": 50, "Reps": 1, "Volume_Load": 50, "Intensity_RPE": 9, "Notes": "Top single" },
+    { "Movement": "OHP", "Load_kg": 40, "Reps": 8, "Volume_Load": 320, "Intensity_RPE": 9, "Notes": "Back-off volume" },
+    { "Movement": "OHP", "Load_kg": 40, "Reps": 8, "Volume_Load": 320, "Intensity_RPE": 9, "Notes": "Repeat back-off" }
+]

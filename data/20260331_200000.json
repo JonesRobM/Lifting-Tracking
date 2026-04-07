@@ -1,0 +1,22 @@
+[
+    {"Movement": "Bench Press", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 8.5, "Notes": "Post-peak strength maintenance"},
+    {"Movement": "Bench Press", "Load_kg": 65, "Reps": 6, "Volume_Load": 390, "Intensity_RPE": 8.5, "Notes": "Fatigue accumulating"},
+    {"Movement": "Bench Press", "Load_kg": 65, "Reps": 6, "Volume_Load": 390, "Intensity_RPE": 9.0, "Notes": "Pushing closer to failure"},
+    {"Movement": "Barbell Row", "Load_kg": 40, "Reps": 12, "Volume_Load": 480, "Intensity_RPE": 6.0, "Notes": "Transition to pull"},
+    {"Movement": "Barbell Row", "Load_kg": 60, "Reps": 4, "Volume_Load": 240, "Intensity_RPE": 6.5, "Notes": "Load jump"},
+    {"Movement": "Barbell Row", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 7.5, "Notes": "High volume set"},
+    {"Movement": "Barbell Row", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 8.0, "Notes": "Consistent output"},
+    {"Movement": "Barbell Row", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 9.5, "Notes": "Near technical failure"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 7.0, "Notes": "Lat stretch focus"},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 7.5, "Notes": ""},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 8.5, "Notes": ""},
+    {"Movement": "Dumbbell Pullover", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 8.5, "Notes": ""},
+    {"Movement": "Assisted Pull-up", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7.0, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Dip", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 6.5, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Pull-up", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7.5, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Dip", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7.0, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Pull-up", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7.5, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Dip", "Load_kg": 60, "Reps": 6, "Volume_Load": 360, "Intensity_RPE": 7.5, "Notes": "-25kg assist"},
+    {"Movement": "Assisted Pull-up", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 7.5, "Notes": "-15kg assist"},
+    {"Movement": "Assisted Dip", "Load_kg": 70, "Reps": 3, "Volume_Load": 210, "Intensity_RPE": 7.5, "Notes": "-15kg assist"}
+]
