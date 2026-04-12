@@ -1,0 +1,19 @@
+[
+    { "Movement": "Bench", "Load_kg": 20, "Reps": 12, "Volume_Load": 240, "Intensity_RPE": 3, "Notes": "Warm-up" },
+    { "Movement": "Bench", "Load_kg": 60, "Reps": 10, "Volume_Load": 600, "Intensity_RPE": 7, "Notes": "Working set" },
+    { "Movement": "Bench", "Load_kg": 80, "Reps": 3, "Volume_Load": 240, "Intensity_RPE": 8.5, "Notes": "Intensity push" },
+    { "Movement": "Bench", "Load_kg": 85, "Reps": 1, "Volume_Load": 85, "Intensity_RPE": 8.5, "Notes": "Top single" },
+    { "Movement": "Bench", "Load_kg": 90, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Failed attempt 1" },
+    { "Movement": "Bench", "Load_kg": 90, "Reps": 0, "Volume_Load": 0, "Intensity_RPE": 10, "Notes": "Failed attempt 2" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 8, "Notes": "Back-off 1" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 8.5, "Notes": "Back-off 2" },
+    { "Movement": "Bench", "Load_kg": 70, "Reps": 6, "Volume_Load": 420, "Intensity_RPE": 9, "Notes": "Back-off 3" },
+    { "Movement": "Bicep Curls", "Load_kg": 20, "Reps": 60, "Volume_Load": 1200, "Intensity_RPE": 7.5, "Notes": "6 sets of 10" },
+    { "Movement": "Skullcrushers", "Load_kg": 20, "Reps": 15, "Volume_Load": 300, "Intensity_RPE": 7, "Notes": "Set 1" },
+    { "Movement": "Skullcrushers", "Load_kg": 30, "Reps": 50, "Volume_Load": 1500, "Intensity_RPE": 7.5, "Notes": "5 sets of 10" },
+    { "Movement": "Dumbbell Row", "Load_kg": 26, "Reps": 80, "Volume_Load": 2080, "Intensity_RPE": 7.5, "Notes": "4 sets of 10 L/R" },
+    { "Movement": "Assisted Pull-ups", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 8, "Notes": "Set 1" },
+    { "Movement": "Assisted Dips", "Load_kg": 60, "Reps": 8, "Volume_Load": 480, "Intensity_RPE": 7, "Notes": "Set 1" },
+    { "Movement": "Assisted Pull-ups", "Load_kg": 67, "Reps": 15, "Volume_Load": 1005, "Intensity_RPE": 8.5, "Notes": "3 sets of 5" },
+    { "Movement": "Assisted Dips", "Load_kg": 67, "Reps": 15, "Volume_Load": 1005, "Intensity_RPE": 8, "Notes": "3 sets of 5" }
+  ]
